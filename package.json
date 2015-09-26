@@ -1,6 +1,6 @@
 {
-  "name": "frisby",
-  "version": "0.8.4",
+  "name": "frisby_dberg",
+  "version": "10.0.0",
   "description": "Frisby.js: REST API Endpoint Testing built on Jasmine",
   "homepage": "http://frisbyjs.com",
   "author": "Vance Lucas <vance@vancelucas.com>",
